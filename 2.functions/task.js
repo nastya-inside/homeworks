@@ -29,8 +29,6 @@ function getArrayParams(arr) {
 
 
 
-
-
 // Задание 2
 function worker(arr) {
   let sum;
